@@ -1,0 +1,3 @@
+# Temporary Excel files
+# Excel file extensions: xls, xlt, xla, xlam, xlsx, xlsm, xlsb, xltx, xltm
+~$*.xl*
